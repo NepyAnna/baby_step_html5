@@ -1,8 +1,17 @@
 .backdown{
     margin-left: 80px;
 }
-
+.unordered-list{
+    margin-left: 80px;
+}
 .exit{
     display: flex;
     justify-content: right;
 }
+.empty-marker{
+    list-style-type: circle;
+}
+.square-marker{
+    list-style-type: square;
+}
+
