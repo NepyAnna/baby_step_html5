@@ -1,0 +1,8 @@
+.backdown{
+    margin-left: 80px;
+}
+
+.exit{
+    display: flex;
+    justify-content: right;
+}
