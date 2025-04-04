@@ -4,6 +4,10 @@
 .unordered-list{
     margin-left: 80px;
 }
+
+.ordered-list{
+    margin-left: 80px;
+}
 .exit{
     display: flex;
     justify-content: right;
